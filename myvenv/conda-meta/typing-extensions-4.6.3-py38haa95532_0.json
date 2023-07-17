@@ -1,0 +1,36 @@
+{
+  "build": "py38haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0",
+    "typing_extensions 4.6.3 py38haa95532_0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Dell\\anaconda3\\pkgs\\typing-extensions-4.6.3-py38haa95532_0",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "typing-extensions-4.6.3-py38haa95532_0.conda",
+  "legacy_bz2_md5": "3852162fd2f9f145243a6b4c3fd11f45",
+  "license": "PSF-2.0",
+  "license_family": "PSF",
+  "link": {
+    "source": "C:\\Users\\Dell\\anaconda3\\pkgs\\typing-extensions-4.6.3-py38haa95532_0",
+    "type": 1
+  },
+  "md5": "fc10c4426293688296a30b2a92ad1371",
+  "name": "typing-extensions",
+  "package_tarball_full_path": "C:\\Users\\Dell\\anaconda3\\pkgs\\typing-extensions-4.6.3-py38haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "d6486c3126380f24033225129843906a76506b77ec9f8fc2e93c7a857c7f71a2",
+  "size": 9785,
+  "subdir": "win-64",
+  "timestamp": 1686602273209,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/typing-extensions-4.6.3-py38haa95532_0.conda",
+  "version": "4.6.3"
+}

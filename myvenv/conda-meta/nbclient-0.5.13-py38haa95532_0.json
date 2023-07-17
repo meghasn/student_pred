@@ -1,0 +1,544 @@
+{
+  "build": "py38haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "jupyter_client >=6.1.5",
+    "nbformat >=5.0",
+    "nest-asyncio",
+    "python >=3.8,<3.9.0a0",
+    "traitlets >=5.0.0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Dell\\anaconda3\\pkgs\\nbclient-0.5.13-py38haa95532_0",
+  "files": [
+    "Lib/site-packages/nbclient-0.5.13.dist-info/INSTALLER",
+    "Lib/site-packages/nbclient-0.5.13.dist-info/LICENSE",
+    "Lib/site-packages/nbclient-0.5.13.dist-info/METADATA",
+    "Lib/site-packages/nbclient-0.5.13.dist-info/RECORD",
+    "Lib/site-packages/nbclient-0.5.13.dist-info/REQUESTED",
+    "Lib/site-packages/nbclient-0.5.13.dist-info/WHEEL",
+    "Lib/site-packages/nbclient-0.5.13.dist-info/direct_url.json",
+    "Lib/site-packages/nbclient-0.5.13.dist-info/entry_points.txt",
+    "Lib/site-packages/nbclient-0.5.13.dist-info/top_level.txt",
+    "Lib/site-packages/nbclient/__init__.py",
+    "Lib/site-packages/nbclient/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/nbclient/__pycache__/_version.cpython-38.pyc",
+    "Lib/site-packages/nbclient/__pycache__/cli.cpython-38.pyc",
+    "Lib/site-packages/nbclient/__pycache__/client.cpython-38.pyc",
+    "Lib/site-packages/nbclient/__pycache__/exceptions.cpython-38.pyc",
+    "Lib/site-packages/nbclient/__pycache__/jsonutil.cpython-38.pyc",
+    "Lib/site-packages/nbclient/__pycache__/output_widget.cpython-38.pyc",
+    "Lib/site-packages/nbclient/__pycache__/util.cpython-38.pyc",
+    "Lib/site-packages/nbclient/_version.py",
+    "Lib/site-packages/nbclient/cli.py",
+    "Lib/site-packages/nbclient/client.py",
+    "Lib/site-packages/nbclient/exceptions.py",
+    "Lib/site-packages/nbclient/jsonutil.py",
+    "Lib/site-packages/nbclient/output_widget.py",
+    "Lib/site-packages/nbclient/tests/__init__.py",
+    "Lib/site-packages/nbclient/tests/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/nbclient/tests/__pycache__/base.cpython-38.pyc",
+    "Lib/site-packages/nbclient/tests/__pycache__/conftest.cpython-38.pyc",
+    "Lib/site-packages/nbclient/tests/__pycache__/fake_kernelmanager.cpython-38.pyc",
+    "Lib/site-packages/nbclient/tests/__pycache__/test_client.cpython-38.pyc",
+    "Lib/site-packages/nbclient/tests/__pycache__/test_util.cpython-38.pyc",
+    "Lib/site-packages/nbclient/tests/base.py",
+    "Lib/site-packages/nbclient/tests/conftest.py",
+    "Lib/site-packages/nbclient/tests/fake_kernelmanager.py",
+    "Lib/site-packages/nbclient/tests/files/Autokill.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Check History in Memory.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Clear Output.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Disable Stdin.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Empty Cell.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Error.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Factorials.ipynb",
+    "Lib/site-packages/nbclient/tests/files/HelloWorld.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Inline Image.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Interrupt.ipynb",
+    "Lib/site-packages/nbclient/tests/files/JupyterWidgets.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Other Comms.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Output.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Parallel Execute A.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Parallel Execute B.ipynb",
+    "Lib/site-packages/nbclient/tests/files/SVG.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Skip Exceptions with Cell Tags.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Skip Exceptions.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Skip Execution with Cell Tag.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Sleep1s.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Unicode.ipynb",
+    "Lib/site-packages/nbclient/tests/files/UnicodePy3.ipynb",
+    "Lib/site-packages/nbclient/tests/files/python.png",
+    "Lib/site-packages/nbclient/tests/files/update-display-id.ipynb",
+    "Lib/site-packages/nbclient/tests/test_client.py",
+    "Lib/site-packages/nbclient/tests/test_util.py",
+    "Lib/site-packages/nbclient/util.py",
+    "Scripts/jupyter-execute-script.py",
+    "Scripts/jupyter-execute.exe",
+    ".nonadmin"
+  ],
+  "fn": "nbclient-0.5.13-py38haa95532_0.conda",
+  "legacy_bz2_md5": "56e16967a9119349ba7e5faa1998db96",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\Dell\\anaconda3\\pkgs\\nbclient-0.5.13-py38haa95532_0",
+    "type": 1
+  },
+  "md5": "de83a99de091274d8a89ddd63e85aefb",
+  "name": "nbclient",
+  "package_tarball_full_path": "C:\\Users\\Dell\\anaconda3\\pkgs\\nbclient-0.5.13-py38haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/nbclient-0.5.13.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/nbclient-0.5.13.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "d58229db4e1b74cf33ea1c5d962e32d5e7670ecbe3b473e5ce89929b3b5087a7",
+        "sha256_in_prefix": "d58229db4e1b74cf33ea1c5d962e32d5e7670ecbe3b473e5ce89929b3b5087a7",
+        "size_in_bytes": 2836
+      },
+      {
+        "_path": "Lib/site-packages/nbclient-0.5.13.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "08c5994ba0f8a66b7ebd48427226c68494c9cb1b5e1072f0eba289a074a6e6e2",
+        "sha256_in_prefix": "08c5994ba0f8a66b7ebd48427226c68494c9cb1b5e1072f0eba289a074a6e6e2",
+        "size_in_bytes": 4993
+      },
+      {
+        "_path": "Lib/site-packages/nbclient-0.5.13.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "db458dfdf6c385c11bb6aa3c36707f5b827c4fd9e0ac27f5fd658297ea2e0db6",
+        "sha256_in_prefix": "db458dfdf6c385c11bb6aa3c36707f5b827c4fd9e0ac27f5fd658297ea2e0db6",
+        "size_in_bytes": 5044
+      },
+      {
+        "_path": "Lib/site-packages/nbclient-0.5.13.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/nbclient-0.5.13.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "sha256_in_prefix": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "Lib/site-packages/nbclient-0.5.13.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "902f28b1df808e889a4e050163a763e3bf72a81f54223e2e717e229e9b89e23b",
+        "sha256_in_prefix": "902f28b1df808e889a4e050163a763e3bf72a81f54223e2e717e229e9b89e23b",
+        "size_in_bytes": 68
+      },
+      {
+        "_path": "Lib/site-packages/nbclient-0.5.13.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "b072509d4055a242b8e8ed8f2be835586f500214e6697cb77f0b2143fb7b4c50",
+        "sha256_in_prefix": "b072509d4055a242b8e8ed8f2be835586f500214e6697cb77f0b2143fb7b4c50",
+        "size_in_bytes": 54
+      },
+      {
+        "_path": "Lib/site-packages/nbclient-0.5.13.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "e7cae032da85af693b9cf564cf78c291a5893ddd626263f283fcda1abece0f4d",
+        "sha256_in_prefix": "e7cae032da85af693b9cf564cf78c291a5893ddd626263f283fcda1abece0f4d",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "bacbab5929bdefd7208f7db64ec94701920d1156af87477ebec917eb439c3f7d",
+        "sha256_in_prefix": "bacbab5929bdefd7208f7db64ec94701920d1156af87477ebec917eb439c3f7d",
+        "size_in_bytes": 507
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "7ad75931f1799a9fe365ad37c409be0ab3807a979a1576fac7dffab48c09200a",
+        "sha256_in_prefix": "7ad75931f1799a9fe365ad37c409be0ab3807a979a1576fac7dffab48c09200a",
+        "size_in_bytes": 510
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/__pycache__/_version.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "6eeb45e1ef30bb48974d27ab194b306ee379e76241dcb1e889390593eaecc52f",
+        "sha256_in_prefix": "6eeb45e1ef30bb48974d27ab194b306ee379e76241dcb1e889390593eaecc52f",
+        "size_in_bytes": 630
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/__pycache__/cli.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "a81ffc902ffa62d10b22c808fa78a8ce940a4561ac43c7bed9153ab270d3f9f0",
+        "sha256_in_prefix": "a81ffc902ffa62d10b22c808fa78a8ce940a4561ac43c7bed9153ab270d3f9f0",
+        "size_in_bytes": 4122
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/__pycache__/client.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "fc5f86b6fe726da8ccc18be24fd676831bbfe01533513e1a26e9a9cdd407670f",
+        "sha256_in_prefix": "fc5f86b6fe726da8ccc18be24fd676831bbfe01533513e1a26e9a9cdd407670f",
+        "size_in_bytes": 33503
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/__pycache__/exceptions.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "ac03582a920752ed0bb7efb7bd3924a73c7480e51aa5ab635b19b87415f6f306",
+        "sha256_in_prefix": "ac03582a920752ed0bb7efb7bd3924a73c7480e51aa5ab635b19b87415f6f306",
+        "size_in_bytes": 4044
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/__pycache__/jsonutil.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "b102b0b928a74d65d160c280a3ab4d58893c6b27a78a5a6fa5cb5aeb47c4a91a",
+        "sha256_in_prefix": "b102b0b928a74d65d160c280a3ab4d58893c6b27a78a5a6fa5cb5aeb47c4a91a",
+        "size_in_bytes": 3085
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/__pycache__/output_widget.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "a1cd105b09284707fa9a1d5cbf9779b5099cfcd6ff62f6537e26722cc36bc145",
+        "sha256_in_prefix": "a1cd105b09284707fa9a1d5cbf9779b5099cfcd6ff62f6537e26722cc36bc145",
+        "size_in_bytes": 3478
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/__pycache__/util.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "d01783876aa93126b3e74cd21b877222fef73daece715ab0d2360abf6714e652",
+        "sha256_in_prefix": "d01783876aa93126b3e74cd21b877222fef73daece715ab0d2360abf6714e652",
+        "size_in_bytes": 2964
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/_version.py",
+        "path_type": "hardlink",
+        "sha256": "e47ff374101b331f777a505f442fac720bc1064dc16db259da4feadf417c234e",
+        "sha256_in_prefix": "e47ff374101b331f777a505f442fac720bc1064dc16db259da4feadf417c234e",
+        "size_in_bytes": 444
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/cli.py",
+        "path_type": "hardlink",
+        "sha256": "5fd7649de1b1d167e2248c6be09b44776170626a61873b0b39324b15d1b91959",
+        "sha256_in_prefix": "5fd7649de1b1d167e2248c6be09b44776170626a61873b0b39324b15d1b91959",
+        "size_in_bytes": 4476
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/client.py",
+        "path_type": "hardlink",
+        "sha256": "57d5bff2b0fd4d5b32420c6fcb516cc3eaa40c5ea9fb497042713ce7b9e5f1bc",
+        "sha256_in_prefix": "57d5bff2b0fd4d5b32420c6fcb516cc3eaa40c5ea9fb497042713ce7b9e5f1bc",
+        "size_in_bytes": 44953
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "2a1a2712c1e62db9b5eaf70c373d33f022a427d9ea9617ebcc0c384ed381b6c9",
+        "sha256_in_prefix": "2a1a2712c1e62db9b5eaf70c373d33f022a427d9ea9617ebcc0c384ed381b6c9",
+        "size_in_bytes": 3142
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/jsonutil.py",
+        "path_type": "hardlink",
+        "sha256": "ac6572f91e0e9f1aea666b835064f2112dd62cbcbd197f5b1064a4ec9780dda5",
+        "sha256_in_prefix": "ac6572f91e0e9f1aea666b835064f2112dd62cbcbd197f5b1064a4ec9780dda5",
+        "size_in_bytes": 4541
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/output_widget.py",
+        "path_type": "hardlink",
+        "sha256": "d6381cdec052f1d244f9bfdd9b557044f874c9e8c468f11a3c320ba48751f7ca",
+        "sha256_in_prefix": "d6381cdec052f1d244f9bfdd9b557044f874c9e8c468f11a3c320ba48751f7ca",
+        "size_in_bytes": 4014
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "b30f5c721884bffac39a201ab9de1bbed448068a2be442caa05b84584a7057e9",
+        "sha256_in_prefix": "b30f5c721884bffac39a201ab9de1bbed448068a2be442caa05b84584a7057e9",
+        "size_in_bytes": 135
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/__pycache__/base.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "4dba54884b404b47cd8185cb5d03eaf367b7547ccdd87b4296d9b623545eae64",
+        "sha256_in_prefix": "4dba54884b404b47cd8185cb5d03eaf367b7547ccdd87b4296d9b623545eae64",
+        "size_in_bytes": 1621
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/__pycache__/conftest.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "171ea677dc4b1584fffd02d4eb16ab138955ccc53eb96b0c460749e3d72bd887",
+        "sha256_in_prefix": "171ea677dc4b1584fffd02d4eb16ab138955ccc53eb96b0c460749e3d72bd887",
+        "size_in_bytes": 204
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/__pycache__/fake_kernelmanager.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "d87017f560b0ae5916482567f7abeb3ee4efa0d6e44ae8410e443251210417f9",
+        "sha256_in_prefix": "d87017f560b0ae5916482567f7abeb3ee4efa0d6e44ae8410e443251210417f9",
+        "size_in_bytes": 1251
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/__pycache__/test_client.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "b32965c7a98fef06fa854bf90c27334bd34e4df6ddd146e9bd3dc1b351ff435a",
+        "sha256_in_prefix": "b32965c7a98fef06fa854bf90c27334bd34e4df6ddd146e9bd3dc1b351ff435a",
+        "size_in_bytes": 42963
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/__pycache__/test_util.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "3b9e58303f6b45b97d0889e9a296218a522ea2c9208a3a6602376565ae8b30d1",
+        "sha256_in_prefix": "3b9e58303f6b45b97d0889e9a296218a522ea2c9208a3a6602376565ae8b30d1",
+        "size_in_bytes": 2410
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/base.py",
+        "path_type": "hardlink",
+        "sha256": "45cf6b4b5b3ec827d0fef2e163523e808b28c058a9f53ea43adc8811fa7048e6",
+        "sha256_in_prefix": "45cf6b4b5b3ec827d0fef2e163523e808b28c058a9f53ea43adc8811fa7048e6",
+        "size_in_bytes": 1950
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/conftest.py",
+        "path_type": "hardlink",
+        "sha256": "82cb7fff312d3df3c55618cc346d36574fc1014233fa8976ed39e8218bf8f6b8",
+        "sha256_in_prefix": "82cb7fff312d3df3c55618cc346d36574fc1014233fa8976ed39e8218bf8f6b8",
+        "size_in_bytes": 262
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/fake_kernelmanager.py",
+        "path_type": "hardlink",
+        "sha256": "4623f43e65797c0b060fbbe69c01534fea11fc24a63f3993f45c2519e014c73b",
+        "sha256_in_prefix": "4623f43e65797c0b060fbbe69c01534fea11fc24a63f3993f45c2519e014c73b",
+        "size_in_bytes": 796
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/files/Autokill.ipynb",
+        "path_type": "hardlink",
+        "sha256": "2e268787e52fe6fd1a686d40b776bc599aeb3482515fd2b4f075f2fefbdc661a",
+        "sha256_in_prefix": "2e268787e52fe6fd1a686d40b776bc599aeb3482515fd2b4f075f2fefbdc661a",
+        "size_in_bytes": 663
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/files/Check History in Memory.ipynb",
+        "path_type": "hardlink",
+        "sha256": "f814231689e18cd82e8428b886fea7938c83edc17c9fe3c6c17598d775f72deb",
+        "sha256_in_prefix": "f814231689e18cd82e8428b886fea7938c83edc17c9fe3c6c17598d775f72deb",
+        "size_in_bytes": 450
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/files/Clear Output.ipynb",
+        "path_type": "hardlink",
+        "sha256": "1fc63951b1bebed4260c097da59d7816c4cbcbb6a1bccd249d7d66dfa0becc84",
+        "sha256_in_prefix": "1fc63951b1bebed4260c097da59d7816c4cbcbb6a1bccd249d7d66dfa0becc84",
+        "size_in_bytes": 3730
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/files/Disable Stdin.ipynb",
+        "path_type": "hardlink",
+        "sha256": "de62ba2457c4e8b77c2cac81c0d2e91ddab03d0c60cc3ba6857587a0759212c2",
+        "sha256_in_prefix": "de62ba2457c4e8b77c2cac81c0d2e91ddab03d0c60cc3ba6857587a0759212c2",
+        "size_in_bytes": 339
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/files/Empty Cell.ipynb",
+        "path_type": "hardlink",
+        "sha256": "e6ed9a640e376a408b26cefb0928137ac860b991a5f20ea78477c319686163ac",
+        "sha256_in_prefix": "e6ed9a640e376a408b26cefb0928137ac860b991a5f20ea78477c319686163ac",
+        "size_in_bytes": 1291
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/files/Error.ipynb",
+        "path_type": "hardlink",
+        "sha256": "c90d826e06b758a20ea64407fd9d186b3bc4e574b9527f3859e6c5fddb5a45d6",
+        "sha256_in_prefix": "c90d826e06b758a20ea64407fd9d186b3bc4e574b9527f3859e6c5fddb5a45d6",
+        "size_in_bytes": 1291
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/files/Factorials.ipynb",
+        "path_type": "hardlink",
+        "sha256": "d480e18f4e4d4297e5c410dc20a1dced77fd75690a24c38425a0d8d2751e53c0",
+        "sha256_in_prefix": "d480e18f4e4d4297e5c410dc20a1dced77fd75690a24c38425a0d8d2751e53c0",
+        "size_in_bytes": 679
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/files/HelloWorld.ipynb",
+        "path_type": "hardlink",
+        "sha256": "eb6803c7966164a82aef4ace4b9654854527c218fadae7abece8e2e73e8dcf13",
+        "sha256_in_prefix": "eb6803c7966164a82aef4ace4b9654854527c218fadae7abece8e2e73e8dcf13",
+        "size_in_bytes": 357
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/files/Inline Image.ipynb",
+        "path_type": "hardlink",
+        "sha256": "9dd06cb0d8e7c37ad7d45edd7d38ee8a9c9b7623109ece3207c4ea418af2a8c1",
+        "sha256_in_prefix": "9dd06cb0d8e7c37ad7d45edd7d38ee8a9c9b7623109ece3207c4ea418af2a8c1",
+        "size_in_bytes": 14333
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/files/Interrupt.ipynb",
+        "path_type": "hardlink",
+        "sha256": "5143d8a9ca31baf7f60176f5de32bee60522bd0016dfa83d5def0f9c9f2bc7b0",
+        "sha256_in_prefix": "5143d8a9ca31baf7f60176f5de32bee60522bd0016dfa83d5def0f9c9f2bc7b0",
+        "size_in_bytes": 1184
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/files/JupyterWidgets.ipynb",
+        "path_type": "hardlink",
+        "sha256": "6439e502948b076e08adb6c56f1e490d0afbdf2b4a831ec16b0c377ff675fb7d",
+        "sha256_in_prefix": "6439e502948b076e08adb6c56f1e490d0afbdf2b4a831ec16b0c377ff675fb7d",
+        "size_in_bytes": 2130
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/files/Other Comms.ipynb",
+        "path_type": "hardlink",
+        "sha256": "fc96cf2eab319808a46906ac341232e51d0a74119872c7bf49784a9cc9445538",
+        "sha256_in_prefix": "fc96cf2eab319808a46906ac341232e51d0a74119872c7bf49784a9cc9445538",
+        "size_in_bytes": 1319
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/files/Output.ipynb",
+        "path_type": "hardlink",
+        "sha256": "c45bf6e59796c5aaddba07682c205765bd5933788ecd8e01d91a320948356c6f",
+        "sha256_in_prefix": "c45bf6e59796c5aaddba07682c205765bd5933788ecd8e01d91a320948356c6f",
+        "size_in_bytes": 20337
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/files/Parallel Execute A.ipynb",
+        "path_type": "hardlink",
+        "sha256": "882060c712b0b92a792feb8ca424334de7796278bf86a20bcc3cfbf55786ec72",
+        "sha256_in_prefix": "882060c712b0b92a792feb8ca424334de7796278bf86a20bcc3cfbf55786ec72",
+        "size_in_bytes": 2486
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/files/Parallel Execute B.ipynb",
+        "path_type": "hardlink",
+        "sha256": "8b7caa11ff2fa6d0e1ed2a011fec9f8861219dc3083dda4f52de4f46a83d324d",
+        "sha256_in_prefix": "8b7caa11ff2fa6d0e1ed2a011fec9f8861219dc3083dda4f52de4f46a83d324d",
+        "size_in_bytes": 2486
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/files/SVG.ipynb",
+        "path_type": "hardlink",
+        "sha256": "611cb435a914f6da4849a7ae1e5b5a47ba8e8397935e726b8dad141728c6d226",
+        "sha256_in_prefix": "611cb435a914f6da4849a7ae1e5b5a47ba8e8397935e726b8dad141728c6d226",
+        "size_in_bytes": 978
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/files/Skip Exceptions with Cell Tags.ipynb",
+        "path_type": "hardlink",
+        "sha256": "ae6db4a0b03dd831823ddaf91f92aeb2e8c7f56b1de02b352589374176440bae",
+        "sha256_in_prefix": "ae6db4a0b03dd831823ddaf91f92aeb2e8c7f56b1de02b352589374176440bae",
+        "size_in_bytes": 1351
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/files/Skip Exceptions.ipynb",
+        "path_type": "hardlink",
+        "sha256": "d8978b634436d436e123fa8e8701d14b986a450440122b4d04052989843fca1d",
+        "sha256_in_prefix": "d8978b634436d436e123fa8e8701d14b986a450440122b4d04052989843fca1d",
+        "size_in_bytes": 1357
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/files/Skip Execution with Cell Tag.ipynb",
+        "path_type": "hardlink",
+        "sha256": "ef1ff2957aa37cb214b0e3be18252f1c80b240bbaf6f8cc1ce9c0f79a1d3acb4",
+        "sha256_in_prefix": "ef1ff2957aa37cb214b0e3be18252f1c80b240bbaf6f8cc1ce9c0f79a1d3acb4",
+        "size_in_bytes": 511
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/files/Sleep1s.ipynb",
+        "path_type": "hardlink",
+        "sha256": "e5fdbc1604b4c230f066d78cb8d099c35d7947e19207d52e4c89520110da5ead",
+        "sha256_in_prefix": "e5fdbc1604b4c230f066d78cb8d099c35d7947e19207d52e4c89520110da5ead",
+        "size_in_bytes": 1197
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/files/Unicode.ipynb",
+        "path_type": "hardlink",
+        "sha256": "be00ba3b21d74277da3fb0551562343cf5c694e83c0b6f69eb9947cfc2fe6647",
+        "sha256_in_prefix": "be00ba3b21d74277da3fb0551562343cf5c694e83c0b6f69eb9947cfc2fe6647",
+        "size_in_bytes": 345
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/files/UnicodePy3.ipynb",
+        "path_type": "hardlink",
+        "sha256": "c3d3eab93cc32a6b531490977e5b30794fc105239a2ca3f7ec5d9910ed8a5840",
+        "sha256_in_prefix": "c3d3eab93cc32a6b531490977e5b30794fc105239a2ca3f7ec5d9910ed8a5840",
+        "size_in_bytes": 446
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/files/python.png",
+        "path_type": "hardlink",
+        "sha256": "4ed13028bb76b19d2e2ba43972c3b64405f0e58d0034ed17239df80e43abff46",
+        "sha256_in_prefix": "4ed13028bb76b19d2e2ba43972c3b64405f0e58d0034ed17239df80e43abff46",
+        "size_in_bytes": 8758
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/files/update-display-id.ipynb",
+        "path_type": "hardlink",
+        "sha256": "ba4b894fc8f652fed61d77a841421b7bed7e858b324b5b8702c52023784cb268",
+        "sha256_in_prefix": "ba4b894fc8f652fed61d77a841421b7bed7e858b324b5b8702c52023784cb268",
+        "size_in_bytes": 3306
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/test_client.py",
+        "path_type": "hardlink",
+        "sha256": "b751580308dce3c85cd18e3cf84945c2928fdd1a26c018004b8e4c060dd6e577",
+        "sha256_in_prefix": "b751580308dce3c85cd18e3cf84945c2928fdd1a26c018004b8e4c060dd6e577",
+        "size_in_bytes": 63528
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/test_util.py",
+        "path_type": "hardlink",
+        "sha256": "2a25e3779b9ec3f3f9115b485714219d74e97c89e905262b019c3806e6a46a42",
+        "sha256_in_prefix": "2a25e3779b9ec3f3f9115b485714219d74e97c89e905262b019c3806e6a46a42",
+        "size_in_bytes": 2171
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/util.py",
+        "path_type": "hardlink",
+        "sha256": "0787e3fb7a3b9b1ba9cd1f8ddac873ee94bd820955618b7c25bb0c3f92ba0bb9",
+        "sha256_in_prefix": "0787e3fb7a3b9b1ba9cd1f8ddac873ee94bd820955618b7c25bb0c3f92ba0bb9",
+        "size_in_bytes": 3423
+      },
+      {
+        "_path": "Scripts/jupyter-execute-script.py",
+        "path_type": "hardlink",
+        "sha256": "54fd491cb4adee65f8e3d365a2e6b2b63377d7677b10d25d3faf0b7b4cc1a7f6",
+        "sha256_in_prefix": "54fd491cb4adee65f8e3d365a2e6b2b63377d7677b10d25d3faf0b7b4cc1a7f6",
+        "size_in_bytes": 206
+      },
+      {
+        "_path": "Scripts/jupyter-execute.exe",
+        "path_type": "hardlink",
+        "sha256": "5ea569f2b5bc9c273351641a1a3c52821ce2a9370bc8202f0247c793ebd8a618",
+        "sha256_in_prefix": "5ea569f2b5bc9c273351641a1a3c52821ce2a9370bc8202f0247c793ebd8a618",
+        "size_in_bytes": 41984
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "22855358c86694f183c3170038f3ccd6db8a9ce4c6e28bf479ad22abd2161bba",
+  "size": 111624,
+  "subdir": "win-64",
+  "timestamp": 1650290459535,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/nbclient-0.5.13-py38haa95532_0.conda",
+  "version": "0.5.13"
+}

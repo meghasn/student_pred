@@ -1,0 +1,306 @@
+{
+  "build": "py38haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "jsonschema >=3.2",
+    "python >=3.8,<3.9.0a0",
+    "python-json-logger >=2.0.4",
+    "pyyaml >=5.3",
+    "rfc3339-validator",
+    "rfc3986-validator >=0.1.1",
+    "traitlets >=5.3"
+  ],
+  "extracted_package_dir": "C:\\Users\\Dell\\anaconda3\\pkgs\\jupyter_events-0.6.3-py38haa95532_0",
+  "files": [
+    "Lib/site-packages/jupyter_events-0.6.3.dist-info/INSTALLER",
+    "Lib/site-packages/jupyter_events-0.6.3.dist-info/METADATA",
+    "Lib/site-packages/jupyter_events-0.6.3.dist-info/RECORD",
+    "Lib/site-packages/jupyter_events-0.6.3.dist-info/REQUESTED",
+    "Lib/site-packages/jupyter_events-0.6.3.dist-info/WHEEL",
+    "Lib/site-packages/jupyter_events-0.6.3.dist-info/direct_url.json",
+    "Lib/site-packages/jupyter_events-0.6.3.dist-info/entry_points.txt",
+    "Lib/site-packages/jupyter_events-0.6.3.dist-info/licenses/COPYING.md",
+    "Lib/site-packages/jupyter_events/__init__.py",
+    "Lib/site-packages/jupyter_events/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/jupyter_events/__pycache__/_version.cpython-38.pyc",
+    "Lib/site-packages/jupyter_events/__pycache__/cli.cpython-38.pyc",
+    "Lib/site-packages/jupyter_events/__pycache__/logger.cpython-38.pyc",
+    "Lib/site-packages/jupyter_events/__pycache__/pytest_plugin.cpython-38.pyc",
+    "Lib/site-packages/jupyter_events/__pycache__/schema.cpython-38.pyc",
+    "Lib/site-packages/jupyter_events/__pycache__/schema_registry.cpython-38.pyc",
+    "Lib/site-packages/jupyter_events/__pycache__/traits.cpython-38.pyc",
+    "Lib/site-packages/jupyter_events/__pycache__/validators.cpython-38.pyc",
+    "Lib/site-packages/jupyter_events/__pycache__/yaml.cpython-38.pyc",
+    "Lib/site-packages/jupyter_events/_version.py",
+    "Lib/site-packages/jupyter_events/cli.py",
+    "Lib/site-packages/jupyter_events/logger.py",
+    "Lib/site-packages/jupyter_events/py.typed",
+    "Lib/site-packages/jupyter_events/pytest_plugin.py",
+    "Lib/site-packages/jupyter_events/schema.py",
+    "Lib/site-packages/jupyter_events/schema_registry.py",
+    "Lib/site-packages/jupyter_events/schemas/event-core-schema.yml",
+    "Lib/site-packages/jupyter_events/schemas/event-metaschema.yml",
+    "Lib/site-packages/jupyter_events/schemas/property-metaschema.yml",
+    "Lib/site-packages/jupyter_events/traits.py",
+    "Lib/site-packages/jupyter_events/validators.py",
+    "Lib/site-packages/jupyter_events/yaml.py",
+    "Scripts/jupyter-events.exe",
+    ".nonadmin"
+  ],
+  "fn": "jupyter_events-0.6.3-py38haa95532_0.conda",
+  "legacy_bz2_md5": "7fceb61d7a577ddee6b11ab7e3f107d5",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\Dell\\anaconda3\\pkgs\\jupyter_events-0.6.3-py38haa95532_0",
+    "type": 1
+  },
+  "md5": "7e18c5f1446ce61c1d0dbc320433e76d",
+  "name": "jupyter_events",
+  "package_tarball_full_path": "C:\\Users\\Dell\\anaconda3\\pkgs\\jupyter_events-0.6.3-py38haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/jupyter_events-0.6.3.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_events-0.6.3.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "318f624b0179daa24b46cbffa750f2d6849db50dbf59ac22ac3390195bf1007a",
+        "sha256_in_prefix": "318f624b0179daa24b46cbffa750f2d6849db50dbf59ac22ac3390195bf1007a",
+        "size_in_bytes": 6055
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_events-0.6.3.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "a594762094483d8ae9e94b9cfaab9250c6600e0af5d91659e3319e6aa53efaa2",
+        "sha256_in_prefix": "a594762094483d8ae9e94b9cfaab9250c6600e0af5d91659e3319e6aa53efaa2",
+        "size_in_bytes": 2583
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_events-0.6.3.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_events-0.6.3.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "84a8bb008231eaa7e7b116ebd3ceefa5e267ad552e0e89031d969c3cf316efe6",
+        "sha256_in_prefix": "84a8bb008231eaa7e7b116ebd3ceefa5e267ad552e0e89031d969c3cf316efe6",
+        "size_in_bytes": 87
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_events-0.6.3.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "b2ac02faecbeccfbcdb091f023bb1b096bc6595869e1039075ce14059bc5a2a9",
+        "sha256_in_prefix": "b2ac02faecbeccfbcdb091f023bb1b096bc6595869e1039075ce14059bc5a2a9",
+        "size_in_bytes": 94
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_events-0.6.3.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "da6e32437af24d8a74f2e98251e5c1a90d4b2a2c37b696c93ecb93ccf9f288de",
+        "sha256_in_prefix": "da6e32437af24d8a74f2e98251e5c1a90d4b2a2c37b696c93ecb93ccf9f288de",
+        "size_in_bytes": 59
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_events-0.6.3.dist-info/licenses/COPYING.md",
+        "path_type": "hardlink",
+        "sha256": "a12882ba35a7c3f4cc1ad0f4328f69df7f438b868ddc4c36a7228acd05889e18",
+        "sha256_in_prefix": "a12882ba35a7c3f4cc1ad0f4328f69df7f438b868ddc4c36a7228acd05889e18",
+        "size_in_bytes": 2833
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_events/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "ef1fb7618c7b8626bd723fdf7f1d52e69c4f62d108fdd14ac1bd19e43d9e2b0f",
+        "sha256_in_prefix": "ef1fb7618c7b8626bd723fdf7f1d52e69c4f62d108fdd14ac1bd19e43d9e2b0f",
+        "size_in_bytes": 222
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_events/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "aaecd478ce4345c8545cdce99fd4c90ada45fe36ed57c2a58597a1b326cff220",
+        "sha256_in_prefix": "aaecd478ce4345c8545cdce99fd4c90ada45fe36ed57c2a58597a1b326cff220",
+        "size_in_bytes": 340
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_events/__pycache__/_version.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "829809b58115205507a901bb57e0e5024497936067d152563dc2ffb18a3e70a0",
+        "sha256_in_prefix": "829809b58115205507a901bb57e0e5024497936067d152563dc2ffb18a3e70a0",
+        "size_in_bytes": 781
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_events/__pycache__/cli.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "42b50c66d2be0f8f19e5dd21da8e2cd1cd1f54f71342a986b3e9b0d713f57b61",
+        "sha256_in_prefix": "42b50c66d2be0f8f19e5dd21da8e2cd1cd1f54f71342a986b3e9b0d713f57b61",
+        "size_in_bytes": 2927
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_events/__pycache__/logger.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "7ea7d7946bcad747ce636b1d080be6675a64c69f97f3e91e6b35a9ae7f395fce",
+        "sha256_in_prefix": "7ea7d7946bcad747ce636b1d080be6675a64c69f97f3e91e6b35a9ae7f395fce",
+        "size_in_bytes": 11968
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_events/__pycache__/pytest_plugin.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "c40a5ab86d2038c4fa1509b841346be12ecfc2067874a928ce284144a6f40bbc",
+        "sha256_in_prefix": "c40a5ab86d2038c4fa1509b841346be12ecfc2067874a928ce284144a6f40bbc",
+        "size_in_bytes": 1996
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_events/__pycache__/schema.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "dc57d6758f3e07f3241e1aea18d1d666d35041fcc9ccdca01a5317a7c4d61895",
+        "sha256_in_prefix": "dc57d6758f3e07f3241e1aea18d1d666d35041fcc9ccdca01a5317a7c4d61895",
+        "size_in_bytes": 4936
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_events/__pycache__/schema_registry.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "825692a92d94b70a7e71cd7ddf09d59997654b5f06cb4793983695e0c7b738fb",
+        "sha256_in_prefix": "825692a92d94b70a7e71cd7ddf09d59997654b5f06cb4793983695e0c7b738fb",
+        "size_in_bytes": 3402
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_events/__pycache__/traits.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "c08e81d20914fc90c78d39868abd5150673457ee604d45689603def331c51c84",
+        "sha256_in_prefix": "c08e81d20914fc90c78d39868abd5150673457ee604d45689603def331c51c84",
+        "size_in_bytes": 1493
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_events/__pycache__/validators.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "48b44d452ed2ea029a5fd9922d9e4c45d445c1a6f99e8b658c63f4c69193c8b8",
+        "sha256_in_prefix": "48b44d452ed2ea029a5fd9922d9e4c45d445c1a6f99e8b658c63f4c69193c8b8",
+        "size_in_bytes": 1655
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_events/__pycache__/yaml.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "4b0ff9392a700dcfc2d59af7e2f06e6f8703dc40907a8f13bf67066a9e1e7211",
+        "sha256_in_prefix": "4b0ff9392a700dcfc2d59af7e2f06e6f8703dc40907a8f13bf67066a9e1e7211",
+        "size_in_bytes": 1174
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_events/_version.py",
+        "path_type": "hardlink",
+        "sha256": "0f4b2e245afc4ba0a9fa767c30ce7badeeac725e756190ded1562155fc4b17d4",
+        "sha256_in_prefix": "0f4b2e245afc4ba0a9fa767c30ce7badeeac725e756190ded1562155fc4b17d4",
+        "size_in_bytes": 628
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_events/cli.py",
+        "path_type": "hardlink",
+        "sha256": "eaf872061cdd64fe8eb7a786adf47d43fe33fc30878afd1f32aa97bcd792c263",
+        "sha256_in_prefix": "eaf872061cdd64fe8eb7a786adf47d43fe33fc30878afd1f32aa97bcd792c263",
+        "size_in_bytes": 3042
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_events/logger.py",
+        "path_type": "hardlink",
+        "sha256": "10060d8c1500bd432251cca468ab884a864b92144d58a1f50509deed51a01e6c",
+        "sha256_in_prefix": "10060d8c1500bd432251cca468ab884a864b92144d58a1f50509deed51a01e6c",
+        "size_in_bytes": 15915
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_events/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_events/pytest_plugin.py",
+        "path_type": "hardlink",
+        "sha256": "3f6cfaa49eb4154b4c80eabb78a3d9f22f25c4b57352294c7047f36266e853f3",
+        "sha256_in_prefix": "3f6cfaa49eb4154b4c80eabb78a3d9f22f25c4b57352294c7047f36266e853f3",
+        "size_in_bytes": 1484
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_events/schema.py",
+        "path_type": "hardlink",
+        "sha256": "a221061c8ee8f34ea2a71c59538c7f6cce426ba494fb60d154a9a343b3595fa4",
+        "sha256_in_prefix": "a221061c8ee8f34ea2a71c59538c7f6cce426ba494fb60d154a9a343b3595fa4",
+        "size_in_bytes": 4916
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_events/schema_registry.py",
+        "path_type": "hardlink",
+        "sha256": "6f0c02b7f253f0a31b5895c8880a6b48e3ff1113bbfe6af5d2b34bc4fa369086",
+        "sha256_in_prefix": "6f0c02b7f253f0a31b5895c8880a6b48e3ff1113bbfe6af5d2b34bc4fa369086",
+        "size_in_bytes": 2669
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_events/schemas/event-core-schema.yml",
+        "path_type": "hardlink",
+        "sha256": "c4fc7e1b9d162386463dde84fdb6564293503c71ac306b29d808b0cbcc6baccb",
+        "sha256_in_prefix": "c4fc7e1b9d162386463dde84fdb6564293503c71ac306b29d808b0cbcc6baccb",
+        "size_in_bytes": 580
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_events/schemas/event-metaschema.yml",
+        "path_type": "hardlink",
+        "sha256": "721d42ebc8de49053263a4ba000a51f701670236f1dbe79cf9b380b2e8ac50eb",
+        "sha256_in_prefix": "721d42ebc8de49053263a4ba000a51f701670236f1dbe79cf9b380b2e8ac50eb",
+        "size_in_bytes": 626
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_events/schemas/property-metaschema.yml",
+        "path_type": "hardlink",
+        "sha256": "9a2ab66d1473a3d9bf7a154ad6f6316f0c78e91847e2e0e5212fa5a72bc686e3",
+        "sha256_in_prefix": "9a2ab66d1473a3d9bf7a154ad6f6316f0c78e91847e2e0e5212fa5a72bc686e3",
+        "size_in_bytes": 624
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_events/traits.py",
+        "path_type": "hardlink",
+        "sha256": "54bb68ba5760fb94e3aa6aaaafe36bf835dd3ad1cc6617fa7cefb557a74d6509",
+        "sha256_in_prefix": "54bb68ba5760fb94e3aa6aaaafe36bf835dd3ad1cc6617fa7cefb557a74d6509",
+        "size_in_bytes": 1542
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_events/validators.py",
+        "path_type": "hardlink",
+        "sha256": "a0289265b3eaf8d92ebfebe7874f5e5561b82e0e23e44bb102e59448f6b9e7b1",
+        "sha256_in_prefix": "a0289265b3eaf8d92ebfebe7874f5e5561b82e0e23e44bb102e59448f6b9e7b1",
+        "size_in_bytes": 2182
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_events/yaml.py",
+        "path_type": "hardlink",
+        "sha256": "58824a3d4212c12f4c8a5240e689ade33f0e6195fb65e6cd76881120b7e2f783",
+        "sha256_in_prefix": "58824a3d4212c12f4c8a5240e689ade33f0e6195fb65e6cd76881120b7e2f783",
+        "size_in_bytes": 881
+      },
+      {
+        "_path": "Scripts/jupyter-events.exe",
+        "path_type": "hardlink",
+        "sha256": "1c4f68cf33b7e5c1127c679d2487129053b7973343585728728612b3a3dac314",
+        "sha256_in_prefix": "1c4f68cf33b7e5c1127c679d2487129053b7973343585728728612b3a3dac314",
+        "size_in_bytes": 108427
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "61921ccff767760b17e80a24213b754c0851104eda983e3305cc2136cf290b76",
+  "size": 94587,
+  "subdir": "win-64",
+  "timestamp": 1684268208984,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/jupyter_events-0.6.3-py38haa95532_0.conda",
+  "version": "0.6.3"
+}
