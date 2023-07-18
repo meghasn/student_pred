@@ -12,3 +12,5 @@
 ## Project
 
 - Excecute EDA of the student dataset. Dataset is to predict the score of specific subject based on Ethnicity, Race and score of other subjects.
+- Create a pipeline for data ingestion
+- Create a pipeline for data transformation
