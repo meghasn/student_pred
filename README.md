@@ -14,3 +14,8 @@
 - Excecute EDA of the student dataset. Dataset is to predict the score of specific subject based on Ethnicity, Race and score of other subjects.
 - Create a pipeline for data ingestion
 - Create a pipeline for data transformation
+- Create a pipeline for training the model
+- Use several regression models while training
+
+- Result Ridge performed the best with 88% accuracy
+- Added code for hyperparameter tuning
