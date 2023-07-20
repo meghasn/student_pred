@@ -32,6 +32,7 @@ class CustomData:
         self.write=writing_score
 
     def get_data_as_frame(self):
+
         try:
             custom_data_input_dict={
                  "gender": [self.gender],
@@ -42,6 +43,7 @@ class CustomData:
                 "reading_score": [self.read],
                 "writing_score": [self.write],
             }
+            print(custom_data_input_dict)
             return pd.DataFrame(custom_data_input_dict)
         except Exception as e:
             raise CustomException(e,sys)
